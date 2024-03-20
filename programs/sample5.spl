@@ -1,0 +1,13 @@
+program 
+	
+	declare real chicken, milk, cost enddeclare
+	declare integer N,M enddeclare
+
+	input(N);
+	input(M);
+	chicken:=10;
+	milk:=3;
+	cost:= N*chicken + M*milk;
+	print(cost)
+
+enddprogram

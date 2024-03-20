@@ -1,0 +1,15 @@
+program 
+	
+	declare integer k,k enddeclare
+
+	input(k);
+	
+	declare real t,t,t,t,t,t,t,t, abc enddeclare
+	input(tt12);
+	input(abc);
+	declare real chilli enddeclare
+	chilli:= t*t+abc/t;
+	print(tomato);
+	print(chilli);
+
+endprogram

@@ -1,0 +1,16 @@
+program 
+	
+	declare real R, side, side , Emvadon , perimetros, diagonal, R enddeclare
+	declare integer UpperSide enddeclare
+
+	input(side36);
+	input(Rt12);
+	diagonal:=(side*side + UpperSide*UpperSide)/diagonal;
+	Emvadon:=side * UpperSide;
+	UpperSide:= side/2;
+	perimetros:=side*2 + UpperSide*2;
+	print(emvadon);
+	print(diagonal);
+	print(perimetros)
+
+endprogram

@@ -1,0 +1,16 @@
+program 
+
+	declare real guitar , frets , guitar , price enddeclare
+	declare integer mahogany, rosewood , ebony , ebony , rosewood enddeclare
+	
+	input(ebony67);
+	input(mahogany);
+	input(mahogany);
+	input(rosewood);
+	input(frets);
+	price:= frets + wood;
+	print(price);
+	print(guitar);
+	print(wood);
+
+endprogram

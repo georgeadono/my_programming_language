@@ -1,0 +1,15 @@
+program 
+
+	declare real r, r, r, diam, area, circ, circ enddeclare
+	declare integer K enddeclare
+
+	input(rx22);
+	diam:=2*rxx;
+	areaX:=3.14*r*r;
+	circ:=3.14*d;
+	K := K*diam;
+	print(area);
+	print(circ)
+
+
+endprogram

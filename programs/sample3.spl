@@ -1,0 +1,13 @@
+program 
+
+	declare real L,L,L,L,L, Kmh, Kmh,consumption, consumption, vel enddeclare
+	declare integer Stops, Stops enddeclare
+
+	input(Kmh);
+	input(L);
+	input(vel);
+	consumption:= L/Kmh;
+	print(consumption);
+	print(Klsd34)
+
+endprogram
